@@ -1,0 +1,9 @@
+pyrogram
+tinydb
+APScheduler
+openpyxl
+XlsxWriter
+captcha
+tronpy
+eth-account
+requests
